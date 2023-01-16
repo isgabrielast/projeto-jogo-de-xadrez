@@ -12,7 +12,7 @@ public class UI {
                     System.out.print("- ");
                 }
                 else {
-                    System.out.print(pieces[i][j]);
+                    System.out.print(pieces[i][j] + " ");
                 }
             }
             System.out.println();

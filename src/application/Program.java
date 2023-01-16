@@ -1,9 +1,6 @@
 package application;
 
-import boardgame.Board;
-import boardgame.Piece;
 import chess.ChessMatch;
-
 import java.util.Locale;
 import java.util.Scanner;
 
